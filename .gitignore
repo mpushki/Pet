@@ -1,0 +1,5 @@
+venv
+venv_pet
+tasks.db
+.idea
+__pycache__
