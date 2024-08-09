@@ -1,5 +1,15 @@
 # pet
 
+## Dependencies:
+ - FastApi
+ - Vue
+ - Docker
+ - Postgres
+
+ ### Models and Migrations
+ - Tortoise for our ORM (Object Relational Mapper) 
+ - Aerich for managing database migrations
+
 ### commands to update the database
 ```
 docker-compose exec backend aerich migrate
