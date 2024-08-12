@@ -5,6 +5,7 @@
  - Vue
  - Docker
  - Postgres
+ - JWT Authentication
 
  ### Models and Migrations
  - Tortoise for our ORM (Object Relational Mapper) 
